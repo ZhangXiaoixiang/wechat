@@ -16,4 +16,5 @@ public class IndexController {
         System.out.println("首页");
         return "微信首页";
     }
+    //https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxb7fcef76336bd0ae&redirect_uri=http%3A%2F%2F5af2h5.natappfree.cc/wechatback/getcode&response_type=code&scope=snsapi_userinfo&state=STATE#wechat_redirect
 }
